@@ -23,19 +23,17 @@ class FaceRecognition:
 
     def check_face(self, frame):
 
-        global face_match
-
         try:
             if DeepFace.verify(frame, self.reference_img.copy())['verified']:
                 
-                face_match = True
+                self.face_match = True
             
             else:
-                face_match = False
+                self.face_match = False
             
         except ValueError:
 
-            face_match = False
+            self.face_match = False
 
     def main_job(self):
 
