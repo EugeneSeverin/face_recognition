@@ -1,4 +1,4 @@
-![image](https://github.com/EugeneSeverin/face_recognition/assets/106474830/9af601b1-1b66-425e-8bbe-750fee9efdc2)# Face Recognition Module
+# Face Recognition Module
 
 This repository contains a Python script for real-time face recognition using OpenCV and DeepFace. The script captures video from the webcam, processes each frame, and checks for a face match against a reference image.
 
