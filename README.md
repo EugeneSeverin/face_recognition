@@ -57,10 +57,9 @@ The script creates an instance of the `FaceRecognition` class and runs the `main
 
 ## Example Output
 
-![image](https://github.com/EugeneSeverin/face_recognition/assets/106474830/e3c55b96-4a68-42c2-b1cb-22c9af361151)
-
 ![no_match](https://github.com/EugeneSeverin/face_recognition/assets/106474830/12403e80-58fb-4664-a4fe-6aa45c7b902e)
 
+![image](https://github.com/EugeneSeverin/face_recognition/assets/106474830/e3c55b96-4a68-42c2-b1cb-22c9af361151)
 
 
 ## Contributing
